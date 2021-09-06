@@ -1,3 +1,4 @@
+![React-App-Google-Chrome-2021-09-06-23-40-15](https://user-images.githubusercontent.com/81585729/132259843-f39992db-6c20-46d5-82bc-d42804cc6f4f.gif)
 # f1-ergast
 ## To run app 
     npm i
