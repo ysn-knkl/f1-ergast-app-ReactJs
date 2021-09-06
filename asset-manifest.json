@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/f1-ergast-app-ReactJs/static/css/main.3a2be43b.chunk.css",
+    "main.js": "/f1-ergast-app-ReactJs/static/js/main.f78be0db.chunk.js",
+    "main.js.map": "/f1-ergast-app-ReactJs/static/js/main.f78be0db.chunk.js.map",
+    "runtime-main.js": "/f1-ergast-app-ReactJs/static/js/runtime-main.fd15dee5.js",
+    "runtime-main.js.map": "/f1-ergast-app-ReactJs/static/js/runtime-main.fd15dee5.js.map",
+    "static/css/2.818011ed.chunk.css": "/f1-ergast-app-ReactJs/static/css/2.818011ed.chunk.css",
+    "static/js/2.12aa9cee.chunk.js": "/f1-ergast-app-ReactJs/static/js/2.12aa9cee.chunk.js",
+    "static/js/2.12aa9cee.chunk.js.map": "/f1-ergast-app-ReactJs/static/js/2.12aa9cee.chunk.js.map",
+    "static/js/3.c4adba8e.chunk.js": "/f1-ergast-app-ReactJs/static/js/3.c4adba8e.chunk.js",
+    "static/js/3.c4adba8e.chunk.js.map": "/f1-ergast-app-ReactJs/static/js/3.c4adba8e.chunk.js.map",
+    "index.html": "/f1-ergast-app-ReactJs/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/f1-ergast-app-ReactJs/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.3a2be43b.chunk.css.map": "/f1-ergast-app-ReactJs/static/css/main.3a2be43b.chunk.css.map",
+    "static/js/2.12aa9cee.chunk.js.LICENSE.txt": "/f1-ergast-app-ReactJs/static/js/2.12aa9cee.chunk.js.LICENSE.txt",
+    "static/media/f1-logo.bf0bfd54.png": "/f1-ergast-app-ReactJs/static/media/f1-logo.bf0bfd54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd15dee5.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.12aa9cee.chunk.js",
+    "static/css/main.3a2be43b.chunk.css",
+    "static/js/main.f78be0db.chunk.js"
+  ]
+}
