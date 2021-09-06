@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: rgb(226, 219, 219);
+}
+Table {
+  background-color: white;
+}
+
+.hover-cursor {
+  cursor: pointer;
+}
